@@ -1,2 +1,1 @@
-"# Activity-discord-bot" 
-"# Activity-discord-bot" 
+This is a discord bot , made for a programming competition, it was created inorder to animate a programming event which is "competitive programming sessions" : an event where programmers get to play some coding challenges. This bot will provide participants with some programming challenges platforms and it also has an alarm feature that can notify participants when the challenge's time is over.
